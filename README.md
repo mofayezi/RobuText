@@ -2,9 +2,10 @@
 <h1> Benchmarking Robustness to Text-Guided Corruptions </h1>
 <h3>
 
-[Mohammadreza Mofayezi](https://github.com/ckoorosh) and Yasamin Medghalchi </h3>
+Mohammadreza Mofayezi and Yasamin Medghalchi </h3>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2110.02711-red)](https://arxiv.org/abs/2304.02963)
+[![arXiv](https://img.shields.io/badge/paper-cvpr2023-gold)](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Mofayezi_Benchmarking_Robustness_to_Text-Guided_Corruptions_CVPRW_2023_paper.html)
+[![arXiv](https://img.shields.io/badge/arXiv-2304.02963-red)](https://arxiv.org/abs/2304.02963)
 
 <image src="docs/Overview.png" width="600">
 </div>
@@ -47,10 +48,12 @@ The code for making image edits was borrowed from [prompt-to-prompt](https://git
 ## Citation
 
 ```
-@article{mofayezi2023benchmarking,
-  title={Benchmarking Robustness to Text-Guided Corruptions},
-  author={Mofayezi, Mohammadreza and Medghalchi, Yasamin},
-  journal={arXiv preprint arXiv:2304.02963},
-  year={2023}
+@InProceedings{Mofayezi_2023_CVPR,
+    author    = {Mofayezi, Mohammadreza and Medghalchi, Yasamin},
+    title     = {Benchmarking Robustness to Text-Guided Corruptions},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {779-786}
 }
 ```
