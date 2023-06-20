@@ -6,6 +6,7 @@ Mohammadreza Mofayezi and Yasamin Medghalchi </h3>
 
 [![arXiv](https://img.shields.io/badge/paper-cvpr2023-gold)](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Mofayezi_Benchmarking_Robustness_to_Text-Guided_Corruptions_CVPRW_2023_paper.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2304.02963-red)](https://arxiv.org/abs/2304.02963)
+[![poster](https://img.shields.io/badge/poster-orange)](https://drive.google.com/file/d/1Ed0UE1mGoiqKKe5Xw5N6vxa2eOYpwgmb/view?usp=sharing) 
 
 <image src="docs/Overview.png" width="600">
 </div>
