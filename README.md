@@ -32,8 +32,9 @@ The code was tested on a GeForce RTX 3090 24GB but should work on other cards wi
 # Generating the Data
 You can generate the text-guided benchmark using the command below:
 ```bash
-python generate_data.py --output_path data-100-10 --num_classes 100 --num_images 10 --sub_class all --seed 10
+python generate_data.py --dataset_path /imagenet/val --output_path data-100-10 --num_classes 100 --num_images 10 --sub_class all --seed 10
 ```
+Note that you need to specify the ImageNet dataset path with the `dataset_path` argument.
 
 # Evaluating Models
 You can run the evaluation code using the command bellow:

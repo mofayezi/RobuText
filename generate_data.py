@@ -817,7 +817,7 @@ def parse_args():
     parser.add_argument('--dataset_path', type=str,
                         default='/imagenet/val', help='Path of dataset')
     parser.add_argument('--output_path', type=str,
-                        default='./data/', help='Path of dataset')
+                        default='./data/', help='Path of the generated data')
     parser.add_argument('--num_classes', type=int, default=10,
                         help='Number of classes to choose')
     parser.add_argument('--num_images', type=int, default=10,
